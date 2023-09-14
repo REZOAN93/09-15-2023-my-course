@@ -1,0 +1,101 @@
+[
+  {
+    "id": "7a8b09c7f5a82e6e3d41bf68e905ef95",
+    "course_name": "Introduction to C Programming",
+    "description": "Learn the fundamentals of the C programming language, including variables, data types, control structures, and functions.",
+    "duration": "4 weeks",
+    "level": "Beginner",
+    "credit": 4,
+    "price": 199,
+    "img": "c_programming.jpg",
+    "details": "This course provides a solid foundation in C programming, a language widely used in system development and embedded systems."
+  },
+  {
+    "id": "e457ab98d2e7a34c1b3fc0978d5478ea",
+    "course_name": "Introduction to Algorithms",
+    "description": "Explore algorithm design and analysis, covering sorting, searching, data structures, and algorithmic problem-solving techniques.",
+    "duration": "6 weeks",
+    "level": "Intermediate",
+    "credit": 5,
+    "price": 249,
+    "img": "algorithms.jpg",
+    "details": "This course delves into the world of algorithms, equipping you with essential problem-solving skills."
+  },
+  {
+    "id": "3e85b912f47bc05c99a87d932154acb2",
+    "course_name": "Introduction to C++ for DS",
+    "description": "Master the C++ language, object-oriented programming, and advanced features such as templates, inheritance, and polymorphism.",
+    "duration": "5 weeks",
+    "level": "Intermediate",
+    "credit": 4,
+    "price": 219,
+    "img": "cpp_programming.jpg",
+    "details": "Take your programming skills to the next level with C++ and object-oriented programming concepts."
+  },
+  {
+    "id": "1f3d82e496ed0ab2b80a06ec5970b68d",
+    "course_name": "Basic Data Structures",
+    "description": "Study various data structures like arrays, linked lists, stacks, and queues, and understand their applications and implementation.",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "credit": 3,
+    "price": 179,
+    "img": "data_structures.jpg",
+    "details": "Learn how to efficiently manage and manipulate data with a focus on data structures and algorithms."
+  },
+  {
+    "id": "d4fe8ce1ad2d98a7c936e4f4f4323e01",
+    "course_name": "Introduction to OOP Python",
+    "description": "Learn Python, a versatile programming language known for its simplicity and extensive libraries, suitable for various applications.",
+    "duration": "6 weeks",
+    "level": "Beginner",
+    "credit": 4,
+    "price": 199,
+    "img": "python_programming.jpg",
+    "details": "Discover the power and flexibility of Python for a wide range of programming tasks."
+  },
+  {
+    "id": "b67a985ceb2cf1a3ed58b0b8fc8f7a6f",
+    "course_name": "Software Engineering",
+    "description": "Dive into the principles of software engineering, including design patterns, project management, and software development methodologies.",
+    "duration": "8 weeks",
+    "level": "Intermediate",
+    "credit": 6,
+    "price": 299,
+    "img": "software_engineering.jpg",
+    "details": "Become a software engineering expert and design robust, scalable software systems."
+  },
+  {
+    "id": "f0c9354d29e2b9d1d914c3e5e13439b9",
+    "course_name": "AWS, Cloud Computing",
+    "description": "Explore cloud computing with AWS, including cloud services, infrastructure as code, and best practices for cloud deployment.",
+    "duration": "6 weeks",
+    "level": "Intermediate",
+    "credit": 5,
+    "price": 249,
+    "img": "aws_cloud.jpg",
+    "details": "Harness the power of AWS for scalable and cost-effective cloud solutions."
+  },
+  {
+    "id": "fe9b0b4ce5e8a0b953c3f82a367f3e2d",
+    "course_name": "Database (MySQL)",
+    "description": "Learn SQL, the language for managing relational databases, including querying data, creating tables, and database design.",
+    "duration": "4 weeks",
+    "level": "Beginner",
+    "credit": 3,
+    "price": 169,
+    "img": "mysql_database.jpg",
+    "details": "Master the art of database management with MySQL and become a data expert."
+  },
+  {
+    "id": "c6a7aef7e5e62d88a2b7c3e5e13439c7",
+    "course_name": "Problem-Solving Part",
+    "description": "Hone your problem-solving skills with challenging programming problems, algorithmic puzzles, and coding exercises.",
+    "duration": "4 weeks",
+    "level": "Intermediate",
+    "credit": 4,
+    "price": 199,
+    "img": "problem_solving.jpg",
+    "details": "Sharpen your problem-solving abilities and tackle complex coding challenges."
+  }
+]
