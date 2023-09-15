@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import Course from "../Course/Course";
-import Swal from 'sweetalert2'
+import Swal from "sweetalert2";
 
 const CourseList = () => {
   const [courses, setCourses] = useState([]);
@@ -21,10 +21,8 @@ const CourseList = () => {
     let totalCredit = data.credit;
     let totalAmount = data.price;
     if (isExist) {
-      const alertMessage=Swal.fire(
-        'Already Enrolled',        
-      )
-      return alertMessage
+      const alertMessage = Swal.fire("Already Enrolled");
+      return alertMessage;
     } else {
       {
         enrolls.forEach((na) => {
@@ -37,17 +35,22 @@ const CourseList = () => {
     const remainingCredit = 20 - totalCredit;
 
     if (totalCredit > 20) {
-      const alertMessage=Swal.fire(
-        "You don't have the enough credit to buy new Course",
-           
-      )
-      return alertMessage
+      const alertMessage = Swal.fire(
+        "You don't have the enough credit to buy new Course"
+      );
+      return alertMessage;
     } else {
       setTotalAmount(totalAmount);
       setRemainingCredit(remainingCredit);
       setCredits(totalCredit);
       const remaining = [...enrolls, data];
       setEnroll(remaining);
+      if (remainingCredit < 0) {
+        const alertMessage = Swal.fire(
+          "The Remaining Credit cann't be less then zero"
+        );
+        return alertMessage;
+      }
     }
   };
 
