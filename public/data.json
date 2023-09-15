@@ -7,7 +7,7 @@
     "level": "Beginner",
     "credit": 4,
     "price": 199,
-    "img": "c_programming.jpg",
+    "img": "https://i.ibb.co/QXWcKbz/Rectangle-2-2.png",
     "details": "This course provides a solid foundation in C programming, a language widely used in system development and embedded systems."
   },
   {
@@ -18,7 +18,8 @@
     "level": "Intermediate",
     "credit": 5,
     "price": 249,
-    "img": "algorithms.jpg",
+    "img": "https://i.ibb.co/Yy9jC46/Rectangle-2-3.png",
+
     "details": "This course delves into the world of algorithms, equipping you with essential problem-solving skills."
   },
   {
@@ -29,7 +30,7 @@
     "level": "Intermediate",
     "credit": 4,
     "price": 219,
-    "img": "cpp_programming.jpg",
+    "img": "https://i.ibb.co/85FZpqy/Rectangle-2-4.png",
     "details": "Take your programming skills to the next level with C++ and object-oriented programming concepts."
   },
   {
@@ -40,7 +41,7 @@
     "level": "Intermediate",
     "credit": 3,
     "price": 179,
-    "img": "data_structures.jpg",
+    "img": "https://i.ibb.co/wgtkv2v/Rectangle-3.png",
     "details": "Learn how to efficiently manage and manipulate data with a focus on data structures and algorithms."
   },
   {
@@ -51,7 +52,8 @@
     "level": "Beginner",
     "credit": 4,
     "price": 199,
-    "img": "python_programming.jpg",
+    "img": "https://i.ibb.co/ctcWB48/Rectangle-2.png",
+
     "details": "Discover the power and flexibility of Python for a wide range of programming tasks."
   },
   {
@@ -62,7 +64,7 @@
     "level": "Intermediate",
     "credit": 6,
     "price": 299,
-    "img": "software_engineering.jpg",
+    "img": "https://i.ibb.co/Zfbqm2f/Rectangle-2-5.png",
     "details": "Become a software engineering expert and design robust, scalable software systems."
   },
   {
@@ -73,7 +75,8 @@
     "level": "Intermediate",
     "credit": 5,
     "price": 249,
-    "img": "aws_cloud.jpg",
+
+    "img": "https://i.ibb.co/Jx4D3sc/Rectangle-3-1.png",
     "details": "Harness the power of AWS for scalable and cost-effective cloud solutions."
   },
   {
@@ -84,7 +87,8 @@
     "level": "Beginner",
     "credit": 3,
     "price": 169,
-    "img": "mysql_database.jpg",
+    "img": "https://i.ibb.co/CKxjcpR/Rectangle-2-1.png",
+
     "details": "Master the art of database management with MySQL and become a data expert."
   },
   {
@@ -95,7 +99,7 @@
     "level": "Intermediate",
     "credit": 4,
     "price": 199,
-    "img": "problem_solving.jpg",
+    "img": "https://i.ibb.co/cr3bZNg/Rectangle-2-6.png",
     "details": "Sharpen your problem-solving abilities and tackle complex coding challenges."
   }
 ]
