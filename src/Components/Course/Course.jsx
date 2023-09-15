@@ -1,7 +1,7 @@
 import { FiDollarSign, FiBookOpen } from "react-icons/fi";
-import './Course.css'
+import "./Course.css";
 
-const Course = ({ course,handleEnrollCourse }) => {
+const Course = ({ course, handleEnrollCourse }) => {
   const { course_name, details, duration, credit, price, img } = course;
   return (
     <div>
@@ -15,7 +15,7 @@ const Course = ({ course,handleEnrollCourse }) => {
           </h1>
           <h1
             style={{ color: "rgba(28, 27, 27, 0.60)" }}
-            className="text-justify text-sm font-normal h-20"
+            className="text-justify text-sm font-normal sm:h-24 md:h-20 lg:h-20"
           >
             {details}
           </h1>
@@ -37,8 +37,14 @@ const Course = ({ course,handleEnrollCourse }) => {
               Credit: {credit}hr
             </p>
           </div>
-          <div >
-            <button onClick={()=>handleEnrollCourse(course)} id="btnSelect" className="btn w-full py-2 rounded-lg text-white font-semibold text-lg">Select</button>
+          <div>
+            <button
+              onClick={() => handleEnrollCourse(course)}
+              id="btnSelect"
+              className="btn w-full py-2 rounded-lg text-white font-semibold text-lg"
+            >
+              Select
+            </button>
           </div>
         </div>
       </div>
