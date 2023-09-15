@@ -53,8 +53,8 @@ const CourseList = () => {
 
   return (
     <div>
-      <div className="flex pb-10">
-        <div className="grid grid-cols-3 gap-4 w-9/12">
+      <div className="mb-10 lg:flex pb-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:w-9/12 w-10/12 mb-9 lg:mb-0 mx-auto md:w-9/12">
           {courses.map((cu) => (
             <Course
               key={cu.id}
@@ -63,7 +63,7 @@ const CourseList = () => {
             ></Course>
           ))}
         </div>
-        <div className="w-3/12 ">
+        <div className="w-full md:w-full lg:w-3/12 ">
           <div className="bg-white rounded-lg mx-3 p-5">
             <div className="space-y-3">
               <h1 style={{ color: "#2F80ED" }} className="text-lg font-bold">
