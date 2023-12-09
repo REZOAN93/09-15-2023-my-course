@@ -1,6 +1,6 @@
 # REZOAN "My Course Management"
 
-## Click here for the Live Link: [https://65042edf0b3a4501f277420a--neon-cranachan-d86517.netlify.app/](https://65042edf0b3a4501f277420a--neon-cranachan-d86517.netlify.app/)
+## Click here for the Live Link: [https://My-Course-Management](https://65042edf0b3a4501f277420a--neon-cranachan-d86517.netlify.app/)
 
 ----------------------------------------------------------------
 
