@@ -4,7 +4,7 @@
 
 ----------------------------------------------------------------
 
-- Technologies Used Front End: React, Vite, Tailwind CSS, Firebase
+- Technologies Used Front End: javaScript, React, Vite, Tailwind CSS, Firebase
 ----------------------------------------------------------------
 ## Project features
 
