@@ -1,12 +1,13 @@
-﻿- Project features
+# REZOAN "Fashion and Apparel"
 
----
+## Click here for the Live Link: [https://b8a10-brandshop.web.app](https://b8a10-brandshop.web.app)
 
-- Update the card data using fetch.
-- Create a state variable, to store the selected courses. This state represents the user's course selection and calculated the total credits and amount.
-- To display toast notifications for events (e.g., exceeding credit limits or adding duplicates)
+----------------------------------------------------------------
 
-===========================================================================
+- Technologies Used Front End: React, Vite, Tailwind CSS, Firebase
+----------------------------------------------------------------
+## Project features
+
  In my project, I managed the state using React's built-in state management capabilities, particularly the useState hook.
 
 - I kept the all data in "data.json" file. then I use the fetch function in the useEffect hooks to set the data in the useState.
