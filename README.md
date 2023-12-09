@@ -1,4 +1,4 @@
-# REZOAN "Fashion and Apparel"
+# REZOAN "My Course Management"
 
 ## Click here for the Live Link: [https://b8a10-brandshop.web.app](https://b8a10-brandshop.web.app)
 
